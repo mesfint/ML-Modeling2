@@ -15,4 +15,11 @@ titanic_df = pd.read_csv(url)
 print(titanic_df.head())
   ```
 - Explanation: The head() method displays the first five rows of the DataFrame, giving us a quick look at the structure and some sample data.
+###  Displaying the Summary of the Dataset
 
+  ```py
+# Display the summary of the dataset
+print(titanic_df.info())
+
+  ```
+- Explanation: The info() method provides a summary of the DataFrame, including the number of non-null entries, data types of each column, and memory usage.
