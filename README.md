@@ -1,4 +1,3 @@
-# ML-Modeling
-##  Jupyter Nootbook commands
-###   2 main datatypes
-series = pd.Series(["BMW","Toyota","Honda"])
+# Titanic Dataset - Classification Data model
+## 1. Data Exploration & Visualization.
+
