@@ -10,4 +10,4 @@ titanic_df = pd.read_csv(url)
 
 
   ```
-
+-  Explanation: We import the pandas library and load the Titanic dataset from a URL into a DataFrame named "titanic_df".
